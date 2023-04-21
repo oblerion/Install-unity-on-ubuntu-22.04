@@ -1,4 +1,3 @@
-# Install-unity-on-ubuntu-22.04
 ## Introduction
 
 ### There are two problems in the Unity Hub installation tutorial (Installing the Unity Hub on Linux):
